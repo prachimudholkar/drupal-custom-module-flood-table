@@ -1,0 +1,17 @@
+custom_module.content:
+  path: '/db'
+  defaults:
+    _controller: '\Drupal\custom_module\Controller\CustomController::content'
+    _title: 'My custom_module'
+  requirements:
+    _permission: 'access content'
+
+
+
+# custom_module.content:
+#   path: '/custom'
+#   defaults:
+#     _controller: '\Drupal\custom_module\Controller\CustomController::content'
+#     _title: 'My custom_module'
+#   requirements:
+#     _permission: 'access content'

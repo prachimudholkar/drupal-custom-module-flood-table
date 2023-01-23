@@ -1,0 +1,11 @@
+{
+	"name": "drupal/custom_module",
+    "description": "a custom module for flood table",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://drupal.org/project/custom_module",
+    "support": {
+        "issues": "https://drupal.org/project/issues/custom_module",
+        "source": "https://cgit.drupalcode.org/project/custom_module"
+    }
+}
